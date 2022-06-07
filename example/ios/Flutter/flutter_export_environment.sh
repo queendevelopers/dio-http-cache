@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/santoshacharya/Desktop/programs/flutter-2-10-5"
-export "FLUTTER_APPLICATION_PATH=/Users/santoshacharya/Desktop/swivt/dio-http-cache/example"
+export "FLUTTER_ROOT=/Users/dev/fvm/versions/stable"
+export "FLUTTER_APPLICATION_PATH=/Users/dev/StudioProjects/Flutter/GoSwivt/module/dio-http-cache/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"

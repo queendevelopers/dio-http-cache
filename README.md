@@ -1,6 +1,6 @@
 # dio-http-cache
 
-[![Pub](https://img.shields.io/pub/v/dio_http_cache.svg?style=flat)](https://pub.dev/packages/dio_http_cache) 
+[![Pub](https://img.shields.io/pub/v/flutter_dio_http_cache.svg?style=flat)](https://pub.dev/packages/flutter_dio_http_cache)
 
 [中文介绍](./README_zh.md)
 
@@ -14,7 +14,7 @@ Inspired by [flutter_cache_manager](https://github.com/renefloor/flutter_cache_m
 
 ```yaml
 dependencies:
-  dio_http_cache: ^0.3.x #latest version
+  flutter_dio_http_cache: ^0.3.x #latest version
 ```
 
 ### QuickStart
